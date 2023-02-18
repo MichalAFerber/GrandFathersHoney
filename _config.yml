@@ -18,57 +18,57 @@ baseurl: "/"
 url: "https://grandfathershoney.com/"
 permalink: pretty
 favicon: assets/img/favicon.png
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
 #gh_sponsor: grandfathershoney
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
 
-paginate: 5
-paginate_path: "/blog/page:num"
+# paginate: 5
+# paginate_path: "/blog/page:num"
 
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-seo-tag
-  - kramdown-parser-gfm
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-paginate
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - kramdown-parser-gfm
+#   - jekyll-redirect-from
 
-exclude: 
-  - Gemfile
-  - clean-theme.gemspec
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# exclude: 
+#   - Gemfile
+#   - clean-theme.gemspec
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
-livereload: true
+# livereload: true
 
-sass:
-  style: compressed
-  source_dir: _sass
+# sass:
+#   style: compressed
+#   source_dir: _sass
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      show_sidebar: true
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      author: "C.S. Rhymes"
-      layout: post
-      image: https://via.placeholder.com/1200x800
-      show_sidebar: true
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       show_sidebar: true
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       author: "C.S. Rhymes"
+#       layout: post
+#       image: https://via.placeholder.com/1200x800
+#       show_sidebar: true
 
-markdown: kramdown
-highlighter: rouge
+# markdown: kramdown
+# highlighter: rouge
