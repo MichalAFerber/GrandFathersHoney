@@ -1,12 +1,28 @@
 style: is-light
+height: is-medium
 items:
-  - title: Multiple page layouts
+  - title: About
     subtitle: Including sidebar, menubar, tabs and callouts
     icon: fa-copy
-  - title: Blog included
+    description: >
+      The example description text goes here and can be multiple lines.
+
+      For example, such as this. 
+    call_to_action_name: Call to action 1
+    call_to_action_link: /page-1/
+  - title: Gallery
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
+    description: 
+    call_to_action_name: Call to action 1
+    call_to_action_link: /gallery/
+  - title: Resources
+    subtitle: 
     icon: fa-github
     icon_brand: true
+    description: >
+      The example description text goes here and can be multiple lines.
+
+      For example, such as this. 
+    call_to_action_name: Call to action 1
+    call_to_action_link: /resources/
