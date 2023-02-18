@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About
 subtitle: 
 description: 
 show_sidebar: false

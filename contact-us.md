@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Resources
 subtitle: 
 description: 
 show_sidebar: false

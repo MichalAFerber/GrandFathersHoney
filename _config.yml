@@ -9,11 +9,11 @@
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
 
-title: GRANDFATHER'S HONEY
-tagline: L. L. Langstroth | FATHER OF MODERN BEEKEEPING
+title: Grandfather's Honey
+tagline: L. L. Langstroth | Father of Modern Beekeeping
 email: georgecowanmd@gmail.com
 description: >
-  Small-scale beekeeping &amp; honey production in rural South Carolina honoring Lorenzo Lorraine Langstroth.
+  Small-scale beekeeping & honey production in rural South Carolina honoring Lorenzo Lorraine Langstroth.
 baseurl: "/"
 url: "https://grandfathershoney.com/"
 permalink: pretty
