@@ -4,7 +4,7 @@ items:
   - title: 
     subtitle: 
     icon: 
-    description: ![About](assets/img/LorenzoLangstroth.png) 
+    description: 
     call_to_action_name: About
     call_to_action_link: /about/
   - title: Gallery
