@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: GRANDFATHER'S HONEY
+tagline: L. L. Langstroth | FATHER OF MODERN BEEKEEPING
+email: georgecowanmd@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Small-scale beekeeping &amp; honey production in rural South Carolina honoring Lorenzo Lorraine Langstroth.
+baseurl: "/"
+url: "https://grandfathershoney.com/"
 permalink: pretty
-#favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+favicon: assets/img/favicon.png
+#gh_sponsor: grandfathershoney
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -23,8 +23,6 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
-
 
 plugins:
   - jekyll-sitemap
@@ -71,12 +69,3 @@ defaults:
 
 markdown: kramdown
 highlighter: rouge
-
-footer_menu: example_footer_menu
-
-collections:
-  products: 
-    output: true
-    layout: product
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
